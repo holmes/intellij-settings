@@ -1,0 +1,16 @@
+<application>
+  <component name="BuckOptionsProvider">
+    <option name="lastAlias">
+      <map>
+        <entry key="$USER_HOME$/Development/register-android" value="apos-app" />
+        <entry key="$USER_HOME$/Development/register-android2" value="apos-app" />
+        <entry key="/work/register-android" value="apos-app" />
+        <entry key="/work/register-android2" value="apos-app" />
+      </map>
+    </option>
+    <option name="buckExecutable" value="/work/register-android/buckw" />
+    <option name="adbExecutable" value="$USER_HOME$/Library/Android/sdk/platform-tools/adb" />
+    <option name="showDebug" value="true" />
+    <option name="customizedInstallSettingCommand" value="-v 2" />
+  </component>
+</application>

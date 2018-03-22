@@ -1,0 +1,30 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="ActivateAndroidMonitorToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateBuckToolWindow">
+    <keyboard-shortcut first-keystroke="meta 6" />
+  </action>
+  <action id="ActivateLogcatToolWindow">
+    <keyboard-shortcut first-keystroke="meta 7" />
+  </action>
+  <action id="ActivateStructureToolWindow" />
+  <action id="ActivateTODOToolWindow" />
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="shift ctrl f11" />
+  </action>
+  <action id="Bitbucket.CopyFileUrlInBitbucket" />
+  <action id="Bitbucket.CreatePullRequest" />
+  <action id="Bitbucket.CreateSnippet" />
+  <action id="Bitbucket.OpenFileInBitbucket" />
+  <action id="CheckinProject" />
+  <action id="ConsoleView.ClearAll">
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="ctrl meta alt b" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl meta alt v" />
+  </action>
+</keymap>

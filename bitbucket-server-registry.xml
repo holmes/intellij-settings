@@ -1,0 +1,10 @@
+<application>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="988d8425-e310-4e96-9ca8-088d66a18cbc" baseUri="https://stash.corp.squareup.com/" />
+    </instances>
+    <lookup>
+      <record scheme="ssh" hostname="git.corp.squareup.com" port="-1" path="/" uuid="988d8425-e310-4e96-9ca8-088d66a18cbc" />
+    </lookup>
+  </component>
+</application>
