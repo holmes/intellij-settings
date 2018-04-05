@@ -4,12 +4,14 @@
     <EXCLUDED_PACKAGE NAME="avro.shaded" />
     <EXCLUDED_PACKAGE NAME="com.beust.jcommander.internal" />
     <EXCLUDED_PACKAGE NAME="com.sun.istack" />
+    <EXCLUDED_PACKAGE NAME="java.security" />
     <EXCLUDED_PACKAGE NAME="java.time.ZonedDateTime" />
     <EXCLUDED_PACKAGE NAME="java.util.Observable" />
     <EXCLUDED_PACKAGE NAME="jline.internal" />
     <EXCLUDED_PACKAGE NAME="joptsimple.internal" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
     <EXCLUDED_PACKAGE NAME="junit.framework.Assert" />
+    <EXCLUDED_PACKAGE NAME="org.apache.tools.ant" />
     <EXCLUDED_PACKAGE NAME="org.assertj.core.util" />
     <EXCLUDED_PACKAGE NAME="org.flywaydb.core.internal.util" />
     <EXCLUDED_PACKAGE NAME="org.hibernate.validator.internal" />
